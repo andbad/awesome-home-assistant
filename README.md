@@ -283,6 +283,7 @@ could also build them yourself!_
 - [ESPHome](https://esphome.io/) - Program ESP8266 boards and ESP32 boards using YAML.
 - [Magic Cards](https://github.com/maddox/magic-cards) - RFID scannable cards that you can program to do anything.
 - [Sonoff Tasmota](https://github.com/arendst/Sonoff-Tasmota) - Firmware for ESP8266 boards and devices.
+- [AlexaIntegration](https://community.home-assistant.io/t/speech-parser-script-to-extract-entity-id-information-into-readable-form-for-alexa-or-google-assistant-tts/76428) - Allow to ask to Alexa for all sensors or other entity.
 
 ### DIY Gateways
 
